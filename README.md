@@ -8,14 +8,16 @@ A Full Stack Web developer🎯 and designer🎨 from Indonesia.
 
 **Languages:**  
 
+<code><img height="20" src="https://i.ibb.co/LkPVDQs/php.jpg"></code>
+<code><img height="20" src="https://i.ibb.co/LN0B2z9/fltr.png"></code>
 <code><img height="20" src="https://i.ibb.co/VV5DvFk/html.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png"></code>
+<code><img height="20" src="https://i.ibb.co/SXvDCNW/javascript.png"></code>
+<code><img height="20" src="https://i.ibb.co/hV50BWM/typescript.png"></code>
+<code><img height="20" src="https://i.ibb.co/gmrb88s/react.png"></code>
+<code><img height="20" src="https://i.ibb.co/M6HS5Fs/nodejs.png"></code>
+<code><img height="20" src="https://i.ibb.co/XXskKr6/css.png"></code>
+
+
 
 ![](https://komarev.com/ghpvc/?username=yosepdoni)
 

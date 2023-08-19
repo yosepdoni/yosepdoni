@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Yosep👦,
+### Hi there 👋, I'm Yosep🤠,
 A Full Stack Web developer🎯 and designer🎨 from Indonesia.
 
 

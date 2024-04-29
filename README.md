@@ -1,5 +1,5 @@
-### Hi there 👋, I'm Yosep🤠,
-A Full Stack Web developer🎯 and designer🎨 from Indonesia 📍
+### Hi everyone 👋, I'm Yosep🤠,
+a Full Stack Web developer🎯 and designer🎨 from Indonesia 📍
 
 
 
